@@ -1,0 +1,10 @@
+[
+  {
+    "username": "vinzz",
+    "password": "vinzz001",
+    "role": "owner",
+    "expiredDate": "9999-99-99",
+    "coins": 99999999,
+    "lastSend": 1771299014262
+  }
+]
